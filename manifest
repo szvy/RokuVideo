@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<component name="RokuVideo">
+    <version>1.0</version>
+    <major_version>1</major_version>
+    <minor_version>0</minor_version>
+    <release_version>0</release_version>
+    <sdk_version>1.0</sdk_version>
+    <type>appl</type>
+    <title>RokuVideo</title>
+    <ui_resolutions>
+        <ui_resolution>
+            <fixed_resolution>hd</fixed_resolution>
+        </ui_resolution>
+    </ui_resolutions>
+    <screensaver>false</screensaver>
+</component>

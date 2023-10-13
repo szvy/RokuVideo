@@ -6,7 +6,7 @@ function Main() as Void
     while true
         ' Set the content URL to your video file
         videoContent = CreateObject("roAssociativeArray")
-        videoContent.url = "http://your-server.com/YOURVIDEO.mp4" ' Replace with your actual video URL
+        videoContent.url = "https://github.com/szvy/RokuVideo/raw/main/Example%20Video.mp4" ' Replace with your video URL
 
         ' Play the video
         video.PlayContent(videoContent)
